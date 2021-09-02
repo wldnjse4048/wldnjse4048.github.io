@@ -7,9 +7,9 @@ url: "https://wldnjse4048.github.io/"
 baseurl: ""
 
 # Title of the Site
-title: 신입 개발자
+title: Programming Diary
 # Description of the Site
-description: 개발자의 꿈을 키워나가는 중입니다!
+description: 개발자의 꿈을 키워나가고 있는 신입개발자입니다!
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -43,11 +43,11 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: 천지원
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /WhatATheme/assets/images/profile.jpg
 # 60 Words About the Author
-author-about: 개발자의 꿈을 키워나가고 있는 신입개발자입니다
+author-about: 개발자의 꿈을 키워나가고 있는 신입개발자입니다!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/wldnjse4048
 
 # SASS
 sass:
